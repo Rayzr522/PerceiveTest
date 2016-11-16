@@ -11,10 +11,6 @@
 			<id>spigot-repo</id>
 			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
 		</repository>
-		<repository>
-			<id>perceive-repo</id>
-			<url>https://raw.githubusercontent.com/Rayzr522/MavenRepoTest/master/</url>
-		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
@@ -26,7 +22,7 @@
 		<dependency>
 			<groupId>com.perceivedev</groupId>
 			<artifactId>perceivecore</artifactId>
-			<version>0.0.1-test</version>
+			<version>0.0.1</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
