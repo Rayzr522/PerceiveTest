@@ -1,0 +1,6 @@
+main: com.perceivedev.perceivetest.PerceiveTest
+name: PerceiveTest
+version: 1.0.0
+description: A bukkit plugin for testing PerceiveCore
+authors: [Rayzr]
+depend: [PerceiveCore]
